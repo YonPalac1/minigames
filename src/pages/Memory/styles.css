@@ -1,0 +1,12 @@
+.is-inactive {
+  opacity: 0;
+}
+.is-flipped {
+  transform: rotateY(180deg);
+}
+.card-front-face {
+    background-color: rgb(67, 67, 118);
+}
+.card-back-face {
+  transform: rotateY(180deg);
+}
